@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.arg h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: skyblue;
+    padding: 20px 20px;
+    border: 2px solid black;
+    text-transform: uppercase;
+}
+.brg h2{
+    text-align: center;
+    font-size: 40px;
+    background-color: yellow;
+    padding: 20px 20px;
+    border: 2px solid black;
+    text-transform: uppercase;
+}
+.main{
+    margin-top: 30px;
+}
+.arg i{
+    margin-top: 50px;
+    font-size: 150px;
+    color: black;
+    margin-left: 200px;
+}
+.brg i{
+    margin-top: 50px;
+    font-size: 150px;
+    color: black;
+    margin-left: 200px;
+}
+.arg .goll h4{
+    font-size: 30px;
+    font-weight: 700;
+    background-color: skyblue;
+    border: 5px solid black;
+    width: 200px;
+    padding: 10px 10px;
+    text-align: center;
+    color: black;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+.brg .goll h4{
+    font-size: 30px;
+    font-weight: 700;
+    background-color: yellow;
+    width: 200px;
+    padding: 10px 10px;
+    text-align: center;
+    color: black;
+    border: 5px solid black;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+.arg .goll input{
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 200px;
+    height: 100px;
+    padding-left: 20px;
+    border: 5px solid skyblue;
+    font-size: 50px;
+}
+.brg .goll input{
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 200px;
+    height: 100px;
+    padding-left: 20px;
+    border: 5px solid skyblue;
+    font-size: 50px;
+}
+.arg-winn{
+    background-color: green;
+    color: #ffffff;
+    margin-top: 50px;
+    display: none;
+}
+.brg-winn{
+    background-color: green;
+    padding: 0 20px 50px 100px;
+    color: #ffffff;
+    margin-top: 50px;
+    font-size: 40px;
+    display: none;
+    border-radius: 60px;
+}
+.brg-winn i{
+    font-size: 50px;
+    color: #ffffff;
+    margin-left: 5px;
+}
+.arg-submit{
+    padding: 10px 20px;
+    background-color: blue;
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.brg-submit{
+    padding: 10px 20px;
+    background-color: blue;
+    color: #ffffff;
+    font-size: 30px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.brg{
+    display: none;
+}
